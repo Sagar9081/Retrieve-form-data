@@ -1,0 +1,49 @@
+#main {
+    border: none;
+   background: linear-gradient(to top right,rgb(234, 0, 255),rgb(67, 199, 223));
+   
+   border-radius: 20px;
+   height:400px;
+   width: 800px;
+   
+}
+
+#name{
+    text-align: right;
+    
+    
+   }
+
+
+#forzip{
+    text-align: right;  
+}
+#forgender{
+    text-align: right;  
+}
+#food{
+    text-align: right;  
+}
+
+#forcountry{
+    text-align: right;  
+}
+#foraddress{
+    text-align: right;  
+}
+#choice{
+   height:100px;
+   width:100px; 
+    
+}
+#btn{
+    position:relative;
+    margin-left: 40%;
+}
+#gender1{
+    text-align: left; 
+    font-weight: 500;
+}
+#show{
+    background-color: white;
+}
